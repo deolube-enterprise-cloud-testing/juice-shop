@@ -28,6 +28,8 @@ entire
 [OWASP Top Ten](https://owasp.org/www-project-top-ten) along with many other security flaws found in real-world
 applications!
 
+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
+
 ![Juice Shop Screenshot Slideshow](screenshots/slideshow.gif)
 
 For a detailed introduction, full list of features and architecture overview please visit the official project page:
